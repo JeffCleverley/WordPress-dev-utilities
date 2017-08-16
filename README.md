@@ -1,6 +1,8 @@
 # WordPress Dev Utilities
 
-A collection of useful functions for WordPress Development
+A collection of useful functions for WordPress Development. 
+
+Will be modularised and rolled into a development plugin alongside custom post types, taxonomies and shortcodes modules.
 
 ## Features
 
